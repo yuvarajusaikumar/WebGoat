@@ -2,6 +2,7 @@ This file is part of WebGoat, an Open Web Application Security Project utility. 
 
 SPDX-License-Identifier: GPL-2.0-or-later
 
+
 Copyright (c) 2002 - 2016        Bruce Mayhew
 Copyright (c) 2014 - $today.year Nanne Baars
 
